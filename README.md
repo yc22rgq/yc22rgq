@@ -4,7 +4,7 @@
 
 I am a dedicated software developer specializing in C++. My focus has been on building robust and efficient applications, leveraging my deep knowledge of algorithms and data structures. In addition to C++, I am proficient in Python and Swift, which allows me to work across various platforms, including iOS app development. I am passionate about solving complex problems, optimizing performance, and continuously expanding my skills to stay at the forefront of software development.
 
-Skills: C++ / Python / Swift / Scikit-learn / SwiftUI / Django
+Skills: C++ / Python / Swift / Scikit-learn / SwiftUI / SQL
 
 - 🌱 I’m currently learning Java ☕️ 
 - 😄 Pronouns: He/him 
