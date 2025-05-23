@@ -4,4 +4,4 @@
 
 I am a dedicated software developer specializing in Java. My focus has been on building robust and efficient applications, leveraging my deep knowledge of algorithms and data structures. In addition to Java, I am proficient in C++ and Swift, which allows me to work across various platforms, including iOS app development. I am passionate about solving complex problems, optimizing performance, and continuously expanding my skills to stay at the forefront of software development.
 
-Skills: C++ / Java / Swift / SwiftUI / SQL
+Skills: C++ / Java / Swift / SQL
